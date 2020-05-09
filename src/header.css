@@ -1,0 +1,24 @@
+.all {
+    background-color: burlywood;
+    text-align: center;
+    min-height: 100vh;
+    min-height: 100vw;
+    height: fit-content + 10px;
+    width: 100vw;
+  }
+  
+
+.title
+{
+    background-color: black;
+    color: aliceblue;
+}
+
+
+.mini
+{
+background-color: rgb(46, 45, 43);
+   border: 15px solid rgb(153, 228, 153);
+   font-weight: bolder;
+
+}
