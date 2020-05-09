@@ -89,7 +89,6 @@ function Charts(props) {
       <div>
               <div className="graphMessage">Graph last updated on : {lastDate}</div>
 
-              <div className="graphMessage">Full information can be obtained from <a href = "https://coronatrackersankraman.netlify.app/">here</a></div>
 
       </div>
     );
