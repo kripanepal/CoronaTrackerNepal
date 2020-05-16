@@ -216,7 +216,7 @@ function Main(props) {
             </tr>
 
             <tr>
-            <td colSpan="3">Full information can be obtained from <a href="https://coronatrackersankraman.netlify.app/">here</a>
+            <td colSpan="3">Full information can be obtained from <a href="https://coronatrackersankraman.netlify.app/" target="_blank">here</a>
               </td>
 
             </tr>
